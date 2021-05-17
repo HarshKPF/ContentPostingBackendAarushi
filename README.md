@@ -1,5 +1,6 @@
-# ContentPostingBackendAarushi
-Content Posting Application Backend Aarushi
+# ContentPostingBackendManas
+Content Posting Application Frontend Manas
+
 
 # How to Run Application?
 1. Pull Out the code
